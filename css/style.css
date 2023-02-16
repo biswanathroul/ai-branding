@@ -1,0 +1,90 @@
+body{
+    font-family: Urbanist;
+    background: #fef7e0;
+}
+.navbarbgcol{
+    background: red!important;
+}
+.brandingaimainbg {
+    background: #fff;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 50px;
+    border-radius: 10px;
+    border: 1px solid #dadce0;
+
+}
+h1.baih01 {
+    font-weight: 600;
+    text-align: center;
+    
+}
+.loginformbg {
+    background: #fff;
+    width: 400px;
+    margin: 100px 0px 0px 0px;
+    padding: 50px;
+    border-radius: 10px;
+    border: 1px solid #dadce0;
+}
+.loginformline01 {
+    margin-bottom: 20px;
+}
+.loginformtext01 {
+    font-weight: 600;
+}
+.loginformbox01 {
+    width: 100%;
+    border-color:#cc0101;
+    border-radius: 10px;
+    padding: 5px 0px 5px 10px;
+}
+
+.loginformtext02 {
+    font-size: 14px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0px 10px 10px 174px;
+}
+
+.loginformbtn01 {
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    background: #cc0101;
+    border-color: #cc0101;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.footercopyrighttext{
+    text-align: center;
+    margin: 50px;
+}
+
+.brandingaisidebg{
+    background: #fff;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #dadce0;
+}
+
+.baih02{
+
+}
+.brandnamelistbtn01{
+    margin: 5px 0px 0px 0px;
+    width: 50%;
+    background: #cc0101;
+    border-color: #cc0101;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.colorbox01 {
+    background: red;
+    width: 100%;
+    height: 5vh;
+}
